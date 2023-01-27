@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# ReactBlog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a lightweight blogging app powered by GraphQL, where reading and creating blogs has never been easier or more enjoyable. ReactBlog combines the flexibility of GraphQL with a sleek and intuitive user interface, offering a seamless experience for bloggers and readers alike.
 
 ## Available Scripts
 
